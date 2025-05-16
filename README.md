@@ -1,7 +1,7 @@
 # Power BI-project-2
 ---
 github name: Jarda96
-
+discord name: jarek.cermak
 ---
 ## Zadání projektu
 Tentokrát nebudeš odpovídat na otázky, ale je zcela na tvém výběru, které ukazatele jsou pro tebe nejzajímavější.
