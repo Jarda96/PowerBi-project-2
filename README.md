@@ -11,6 +11,7 @@ Můžeš se tedy samozřejmě inspirovat otázkami z prvního projektu, hlavně 
 
 ## Kritéria
 **Finální PBI musí splňovat tato kritéria:**
+
 Rozsah 2-3 stránky
 Použití minimálně 5 různých typů vizuálů
 Filtrování pomocí slicerů
