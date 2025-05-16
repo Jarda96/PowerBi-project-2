@@ -1,6 +1,7 @@
 # Power BI-project-2
 ---
 github name: Jarda96
+
 discord name: jarek.cermak
 ---
 ## Zadání projektu
