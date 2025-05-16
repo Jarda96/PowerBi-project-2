@@ -1,12 +1,16 @@
-# Power BI projekt
-## Zadání
+# Power BI-project-2
+---
+github name: Jarda96
+
+---
+## Zadání projektu
 Tentokrát nebudeš odpovídat na otázky, ale je zcela na tvém výběru, které ukazatele jsou pro tebe nejzajímavější.
 Můžeš se tedy samozřejmě inspirovat otázkami z prvního projektu, hlavně je ale musíš vhodným způsobem graficky zobrazit v Power BI reportu.
 
-Tvým úkolem tedy je vizualizovat tebou zvolený dataset podle níže zadaných kritérií.
+**Tvým úkolem tedy je vizualizovat tebou zvolený dataset podle níže zadaných kritérií.**
 
 ## Kritéria
-Finální PBI musí splňovat tato kritéria:
+**Finální PBI musí splňovat tato kritéria:**
 Rozsah 2-3 stránky
 Použití minimálně 5 různých typů vizuálů
 Filtrování pomocí slicerů
